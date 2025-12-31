@@ -1,5 +1,5 @@
 import React from 'react'
-import PersonaCard from './components/personaCard';
+import PersonaCard from './components/PersonaCard';
 import InsightCard from './components/InsightCard';
 
 const User_section = ({userResearchObject = []}) => {
