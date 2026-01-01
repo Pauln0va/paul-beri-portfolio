@@ -10,7 +10,7 @@ const Footer = () => {
               {/* Name and email */}
               
             
-            <div className="flex flex-col justify-between items-center gap-4">
+            <div className="flex flex-col justify-between items-center gap-8">
               {/* <div className="border border-white h-6"></div> */}
               <div className="flex gap-4">              
                 <a
