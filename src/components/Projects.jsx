@@ -15,7 +15,7 @@ const Projects = () => {
           <Link to='gilla-case-study'>
             <div className="absolute top-0 bottom-0 left-0 right-0 sm:hover:bg-black/40 sm:hover:backdrop-blur-sm lg:opacity-0 lg:hover:opacity-100 transition-all duration-300 cursor-pointer">
               <div className="h-full flex items-end text-white lg:p-2.5 lg:translate-y-4 lg:hover:-translate-y-4 transition-transform duration-300">
-                <div className="flex items-center gap-8 p-2.5 bg-gradient-to-t from-black/80 to-black/5 via-black/50 lg:bg-transparent">
+                <div className="flex items-center gap-8 p-2.5 bg-gradient-to-t from-black/80 to-black/5 via-black/50 lg:bg-transparent lg:[background-image:none]">
                   <div className="flex flex-col gap-2">
                     <div className='flex items-center justify-between'>
                       <h3 className="font-black text-xl sm:text-2xl">Gilla Market</h3>
@@ -34,7 +34,7 @@ const Projects = () => {
           <Link to='gf-case-study'>
             <div className="absolute top-0 bottom-0 left-0 right-0 lg:hover:bg-black/40 lg:hover:backdrop-blur-sm lg:opacity-0 lg:hover:opacity-100 transition-all duration-300 cursor-pointer">
               <div className="h-full flex items-end text-white lg:p-2.5 lg:translate-y-4 lg:hover:-translate-y-4 transition-transform duration-300">
-                <div className="flex items-center gap-8 p-2.5 bg-gradient-to-t from-black/80 to-black/5 via-black/50 lg:bg-transparent">
+                <div className="flex items-center gap-8 p-2.5 bg-gradient-to-t from-black/80 to-black/5 via-black/50 lg:bg-transparent lg:[background-image:none]">
                   <div className="flex flex-col gap-2 ">
                     <div className='flex items-center justify-between'>
                       <h3 className="font-black text-xl sm:text-2xl">Good Food</h3>
@@ -52,7 +52,7 @@ const Projects = () => {
           <Link to='chestnut-case-study'>
             <div className="absolute top-0 bottom-0 left-0 right-0 lg:hover:bg-black/40 lg:hover:backdrop-blur-sm lg:opacity-0 lg:hover:opacity-100 transition-all duration-300 cursor-pointer">
               <div className="h-full flex items-end text-white lg:p-2.5 lg:translate-y-4 lg:hover:-translate-y-4 transition-transform duration-300">
-                <div className="flex items-center gap-8 p-2.5 bg-gradient-to-t from-black/80 to-black/5 via-black/50 lg:bg-transparent">
+                <div className="flex items-center gap-8 p-2.5 bg-gradient-to-t from-black/80 to-black/5 via-black/50 lg:bg-transparent lg:[background-image:none]">
                   <div className="flex flex-col gap-2">
                     <div className="flex items-center justify-between">
                       <h3 className="font-black text-2xl">Chestnut</h3>
