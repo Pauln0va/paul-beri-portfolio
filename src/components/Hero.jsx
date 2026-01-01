@@ -34,8 +34,8 @@ const Hero = () => {
         </div>
       </div>
       <div className="absolute bottom-4 pb-6">
-        <button onClick={scrollToProjects} aria-label="Scroll to projects" className="cursor-pointer hover:-translate-y-1 transition-all duration-300">
-          <img className="h-6" src="/img/downarrow.svg" alt="down arrow" />
+        <button onClick={scrollToProjects} aria-label="Scroll to projects" className="animate-bounce cursor-pointer hover:-translate-y-1 transition-all duration-300">
+          <img className="h-4" src="/img/downarrow.svg" alt="down arrow" />
         </button>
       </div>
     </div>
