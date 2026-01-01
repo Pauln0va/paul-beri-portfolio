@@ -40,9 +40,9 @@ const Footer = () => {
                 </a>
               </div>
               {/* <div className="border border-white h-6"></div> */}
-              <ul className="flex flex-col sm:gap-y-2 text-white uppercase font-semibold">
+              <ul className="flex flex-col sm:gap-y-2 text-white camelcase font-semibold">
                 <li className="flex px-4">
-                  <span className="text-sm font-thin">&copy; Paulos B Mesfin 2025, All rights reserved</span>
+                  <span className="text-sm font-light">&copy; Paulos B Mesfin {new Date().getFullYear()}, All rights reserved</span>
                 </li>
               </ul>              
             </div>
