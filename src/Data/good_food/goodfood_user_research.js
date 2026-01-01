@@ -1,13 +1,13 @@
 const goodFoodUserResearch = [{
-    user_research: "I used a secondary research approach for this project and I used sample user bios to come up with personas and go from there.",
+    user_research: "I used a primary research in a hallway interview method, where I talked to restaurants and customers.",
     personas: [        
-            'I used a secondary research approach for this project and I used sample user bios to come up with personas and go from there.',       
-            'Customers want a better and efficient way of ordering and getting their orders in time.',
+            'Abel is a middle aged man who owns a small restaurant and who is having trouble finding customers',       
+            "Daniel is a 30 year old foodie who works a 9 to 5 job and he wants a fast and reliable online food delivery because he gets tired and can't make his own food sometimes.",
         ],
-    problem_statement: 'sara is a business owner who struggles with managing her online store efficiently, and is in need of a solution that can help her address these challenges in order to run and scale her business efficiently.',
+    problem_statement: 'Abel is a business man who owns a restaurant which is struggling to find customers and he wants to reach more customers and provide his services through online and at his location.',
     insights: [        
-        'Customers want a better and efficient way of ordering and getting their orders in time.',        
-        'Business owners want a system that helps them manage their inventory and orders efficiently.',        
+        'Customers want the option of ordering food through a fast and reliable online food delivery service.',        
+        'Restaurants want to be able to expand their services and connect with their customers through online means.',        
     ]
 }];
 

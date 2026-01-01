@@ -2,22 +2,22 @@ const goodFoodOverview = [
     {    
         icon: '/icons/product.svg',
         title: 'The Product',
-        description: 'goodFood is an inventory management system that aims to help businesses manage their products, orders and track their sales.'
+        description: 'goodFood is an online food delivery service that aims to connect local restaurants with customers'
     },
     {
         icon: '/icons/clock.svg',
         title: 'Project Duration',
-        description: 'The project will take roughly 8 weeks.',
+        description: 'The project took roughly 3 months.',
     },
     {
         icon: '/icons/hint.svg',
         title: 'The Problem',
-        description: 'Small business owners want to scale their business in an efficient way that will consume less of their time.',
+        description: 'Local restaurants were having trouble with finding customers and providing their services to customers.',
     },
     {
         icon: '/icons/star.svg',
         title: 'The Goal',
-        description: 'Our goal is to help small businesses scale and do it efficiently.',
+        description: 'Our goal is to help those restaurants be more visible and get their goods out to customers.',
     },
     {
         icon: '/icons/avatar_blue.svg',
