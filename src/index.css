@@ -28,6 +28,7 @@ body {
   width: 100dvw;
   background-color: #f5f5f4;
   overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 
 a.active {

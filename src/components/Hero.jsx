@@ -9,7 +9,7 @@ const Hero = () => {
   };
 
   return (
-    <div className="relative flex flex-col h-148 items-center justify-between">
+    <div className="relative flex flex-col min-h-dvh md:min-h-148 items-center justify-between">
       <div className="w-full flex flex-col gap-24">
         <div className="flex flex-col gap-4 justify-center items-center pt-6">
           <img className="h-24" src="/img/wave.svg" alt="wave" />
