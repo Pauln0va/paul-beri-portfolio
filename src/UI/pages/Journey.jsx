@@ -7,7 +7,7 @@ const Journey = () => {
         <h2 className='text-4xl font-bold text-center'>My Journey into Product Design</h2>
         <div className='flex flex-col items-center gap-8'>
           <p className='text-base font-light max-w-lg text-left'>
-            my journey into product design was very interesting. 
+            My journey into product design was very interesting. 
             I used to do creative works like graphics design, 
             photo editing and sometimes video editing. 
             but mainly I used to focus on graphics design by creating logos, 
@@ -20,7 +20,7 @@ const Journey = () => {
             where I tried to create a "shoot'em up" game but with a twist, instead of shooting,
             you slice your way up and I called it a "slice'em up" game, in my mind I thought this would
             turn to be a whole new sub genre of the main "shoot'em up" genre, but as I was building
-            this It was feeling a little bit of a far fetched dream, as there was only me and another person 
+            this It felt a little bit of a far fetched project, as there was only me and one other developer 
             working on this project and with little resources at our disposal, it felt a bit of a stretch, so we
             decided to archive the project for the time being and shift my focus on 
             solving real world problems through the programming.

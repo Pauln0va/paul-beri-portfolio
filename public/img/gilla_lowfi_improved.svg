@@ -238,8 +238,7 @@
 <rect width="390" height="64" transform="translate(1057 73)" fill="white"/>
 <rect width="390" height="64" transform="translate(1057 73)" fill="white"/>
 <rect x="1076" y="97" width="16" height="16" rx="2" fill="#454545"/>
-<path d="M1260 100.2H1245.6V109.8H1252.8V108.6H1246.8V101.4H1260V117H1236V93H1260V100.2Z" fill="black"/>
-<path d="M1260 100.2H1245.6V109.8H1252.8V108.6H1246.8V101.4H1260V117H1236V93H1260V100.2Z" stroke="#1ACCAC"/>
+<path d="M1236 93H1260V100.2H1245.6V105V109.8H1252.8V108.6H1246.8V101.4H1260V117H1236V93Z" fill="black"/>
 <g clip-path="url(#clip17_2578_14231)">
 <rect x="1403.95" y="93.5005" width="24" height="24" rx="8" fill="#818181"/>
 <path d="M1415 99C1415 95.6863 1417.69 93 1421 93C1424.31 93 1427 95.6863 1427 99C1427 102.314 1424.31 105 1421 105C1417.69 105 1415 102.314 1415 99Z" fill="#454545"/>
@@ -309,8 +308,7 @@
 <rect width="390" height="240" transform="translate(1571 63)" fill="white"/>
 <rect width="390" height="64" transform="translate(1571 73)" fill="white"/>
 <rect x="1590" y="97" width="16" height="16" rx="2" fill="#454545"/>
-<path d="M1774 100.2H1759.6V109.8H1766.8V108.6H1760.8V101.4H1774V117H1750V93H1774V100.2Z" fill="black"/>
-<path d="M1774 100.2H1759.6V109.8H1766.8V108.6H1760.8V101.4H1774V117H1750V93H1774V100.2Z" stroke="#1ACCAC"/>
+<path d="M1750 93H1774V100.2H1759.6V105V109.8H1766.8V108.6H1760.8V101.4H1774V117H1750V93Z" fill="black"/>
 <g clip-path="url(#clip24_2578_14231)">
 <rect x="1917.95" y="93.5005" width="24" height="24" rx="8" fill="#818181"/>
 <path d="M1929 99C1929 95.6863 1931.69 93 1935 93C1938.31 93 1941 95.6863 1941 99C1941 102.314 1938.31 105 1935 105C1931.69 105 1929 102.314 1929 99Z" fill="#454545"/>
