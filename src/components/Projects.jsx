@@ -10,7 +10,7 @@ const Projects = () => {
       </div>
       {/* projects list */}
       <div className="grid grid-cols-1 sm:grid-cols-3 py-24 px-4 sm:px-8 gap-6">
-        <div className="relative overflow-hidden object-center rounded-lg shadow-md lg:hover:shadow-xl transition-shadow duration-300">
+        <div className="relative overflow-hidden object-center rounded-lg shadow-md lg:hover:shadow-xl transition-all duration-200 active:scale-90">
           <img className="w-full aspect-square object-cover" src="/img/gilla_thumbnail.svg" alt="gilla_thumbnail" />
           <Link to='gilla-case-study'>
             <div className="absolute top-0 bottom-0 left-0 right-0 sm:hover:bg-black/40 sm:hover:backdrop-blur-sm lg:opacity-0 lg:hover:opacity-100 transition-all duration-300 cursor-pointer">
@@ -29,7 +29,7 @@ const Projects = () => {
             </div>
           </Link>
         </div>
-        <div className="relative overflow-hidden object-center rounded-lg shadow-md lg:hover:shadow-xl transition-shadow duration-300">
+        <div className="relative overflow-hidden object-center rounded-lg shadow-md lg:hover:shadow-xl transition-all duration-200 active:scale-90">
           <img className="w-full aspect-square object-cover" src="/img/good_food.svg" alt="good_food_thumbnail" />
           <Link to='gf-case-study'>
             <div className="absolute top-0 bottom-0 left-0 right-0 lg:hover:bg-black/40 lg:hover:backdrop-blur-sm lg:opacity-0 lg:hover:opacity-100 transition-all duration-300 cursor-pointer">
@@ -47,7 +47,7 @@ const Projects = () => {
             </div>
           </Link>
         </div>
-        <div className="relative overflow-hidden object-center rounded-lg shadow-md lg:hover:shadow-xl transition-shadow duration-300">
+        <div className="relative overflow-hidden object-center rounded-lg shadow-md lg:hover:shadow-xl transition-all duration-200 active:scale-90">
           <img className="w-full aspect-square object-cover" src="/img/chestnut_thumbnail.svg" alt="health_hub_thumbnail" />
           <Link to='chestnut-case-study'>
             <div className="absolute top-0 bottom-0 left-0 right-0 lg:hover:bg-black/40 lg:hover:backdrop-blur-sm lg:opacity-0 lg:hover:opacity-100 transition-all duration-300 cursor-pointer">
